@@ -1,0 +1,1 @@
+# Blazor_Projeto_Padr-o
